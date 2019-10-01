@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/deepa/Kernel/kprog1.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/deepa/Kernel/kprog1.ko /home/student/Desktop/deepa/Kernel/kprog1.o /home/student/Desktop/deepa/Kernel/kprog1.mod.o
